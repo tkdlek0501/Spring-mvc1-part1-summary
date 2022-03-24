@@ -1,4 +1,4 @@
-# Spring-mvc1-summary
+# Spring-mvc1-part1-summary
 Spring MVC1 part1 요약 정리
 
 '스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술' 강의를 듣고 정리
